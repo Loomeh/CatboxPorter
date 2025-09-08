@@ -1,0 +1,7 @@
+.vs/
+Installer/Install_CatboxPorter.exe
+CatboxPorter/bin/
+CatboxPorter/obj/
+packages/
+*.nupkg
+.idea/
